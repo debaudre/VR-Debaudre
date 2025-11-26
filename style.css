@@ -404,7 +404,7 @@ body.single-scene #sceneList, body.single-scene #sceneListToggle {
 }
 
 .mobile .link-hotspot {
-  top: 19px; /* ( 70 - (16 + 2*8) ) / 2 */
+  top: 10px; /* ( 70 - (16 + 2*8) ) / 2 */
 }
 
 .no-touch .link-hotspot:hover .link-hotspot-tooltip {

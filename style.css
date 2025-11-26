@@ -468,12 +468,12 @@ body.single-scene #sceneList, body.single-scene #sceneListToggle {
 }
 
 .desktop.no-touch .info-hotspot .info-hotspot-header:hover {
-  width: 260px;
-  border-radius: 5px;
-  -webkit-transition: width 0.3s ease-in-out,
-                      border-radius 0.3s ease-in-out;
-  transition: width 0.3s ease-in-out,
-              border-radius 0.3s ease-in-out;
+  width: 180px;
+  border-radius: 10px;
+  -webkit-transition: width 2.0s ease-in-out,
+                      border-radius 2.0s ease-in-out;
+  transition: width 2.0s ease-in-out,
+              border-radius 2.0s ease-in-out;
 }
 
 .desktop .info-hotspot.visible .info-hotspot-header,

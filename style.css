@@ -450,10 +450,10 @@ body.single-scene #sceneList, body.single-scene #sceneListToggle {
 }
 
 .info-hotspot .info-hotspot-header {
-  width: 15px;
-  height: 15px;
-  border-radius: 80px;
-  background-color: rgb(0,0,0);
+  width: 40px;
+  height: 40px;
+  border-radius: 20px;
+  background-color: rgb(80,80,80);
   cursor: pointer;
   -webkit-transition: width 0.6s ease-in-out 1.0s,
                       border-radius 0.6s ease-in-out 1.0s;

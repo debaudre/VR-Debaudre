@@ -450,15 +450,15 @@ body.single-scene #sceneList, body.single-scene #sceneListToggle {
 }
 
 .info-hotspot .info-hotspot-header {
-  width: 40px;
-  height: 40px;
-  border-radius: 20px;
-  background-color: rgb(80,80,80);
+  width: 20px;
+  height: 20px;
+  border-radius: 10px;
+  background-color: rgb(1,1,1);
   cursor: pointer;
-  -webkit-transition: width 0.6s ease-in-out 1.0s,
-                      border-radius 0.6s ease-in-out 1.0s;
-  transition: width 0.6s ease-in-out 1.0s,
-              border-radius 0.6s ease-in-out 1.0s;
+  -webkit-transition: width 3.0s ease-in-out 3.0s,
+                      border-radius 3.0s ease-in-out 3.0s;
+  transition: width 3.0s ease-in-out 3.0s,
+              border-radius 3.0s ease-in-out 3.0s;
 }
 
 .mobile .info-hotspot .info-hotspot-header {

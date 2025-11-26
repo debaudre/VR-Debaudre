@@ -478,15 +478,15 @@ body.single-scene #sceneList, body.single-scene #sceneListToggle {
 
 .desktop .info-hotspot.visible .info-hotspot-header,
 .desktop.no-touch .info-hotspot.visible .info-hotspot-header:hover {
-  width: 260px;
-  border-radius: 5px;
+  width: 200px;
+  border-radius: 2px;
   border-top-right-radius: 0;
   border-bottom-right-radius: 0;
   border-bottom-left-radius: 0;
-  -webkit-transition: width 0.3s ease-in-out,
-                      border-radius 0.3s ease-in-out;
-  transition: width 0.3s ease-in-out,
-              border-radius 0.3s ease-in-out;
+  -webkit-transition: width 1.0s ease-in-out,
+                      border-radius 1.0s ease-in-out;
+  transition: width 1.0s ease-in-out,
+              border-radius 1.0s ease-in-out;
 }
 
 .info-hotspot .info-hotspot-icon-wrapper {

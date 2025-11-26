@@ -86,6 +86,6 @@ aujourd’hui plusieurs possibilités d’enseignement général et technique et
 -------------------------------------------------------------------------------------
 
 credits aux contributeurs :
-- Laurenceau Gwen (élève de Terminale )
+- Lauranceau Gwen (élève de Terminale )
 - Clément Duprat (élève de Terminale )
 - Marc Turro (Professeur de NSI)

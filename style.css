@@ -468,7 +468,7 @@ body.single-scene #sceneList, body.single-scene #sceneListToggle {
 }
 
 .desktop.no-touch .info-hotspot .info-hotspot-header:hover {
-  width: 240px;
+  width: 270px;
   border-radius: 30px;
   -webkit-transition: width 0.3s ease-in-out,
                       border-radius 0.3s ease-in-out;
@@ -478,15 +478,15 @@ body.single-scene #sceneList, body.single-scene #sceneListToggle {
 
 .desktop .info-hotspot.visible .info-hotspot-header,
 .desktop.no-touch .info-hotspot.visible .info-hotspot-header:hover {
-  width: 300px;
-  border-radius: 10px;
+  width: 240px;
+  border-radius: 5px;
   border-top-right-radius: 0;
   border-bottom-right-radius: 0;
   border-bottom-left-radius: 0;
-  -webkit-transition: width 0.2s ease-in-out,
-                      border-radius 0.2s ease-in-out;
-  transition: width 0.2s ease-in-out,
-              border-radius 0.2s ease-in-out;
+  -webkit-transition: width 0.4s ease-in-out,
+                      border-radius 0.4s ease-in-out;
+  transition: width 0.4s ease-in-out,
+              border-radius 0.4s ease-in-out;
 }
 
 .info-hotspot .info-hotspot-icon-wrapper {

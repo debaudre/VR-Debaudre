@@ -453,12 +453,12 @@ body.single-scene #sceneList, body.single-scene #sceneListToggle {
   width: 60px;
   height: 60px;
   border-radius: 40px;
-  background-color: rgb(100,100,100);
+  background-color: rgb(100,100,120);
   cursor: pointer;
-  -webkit-transition: width 2.0s ease-in-out 2.0s,
-                      border-radius 2.0s ease-in-out 2.0s;
-  transition: width 2.0s ease-in-out 2.0s,
-              border-radius 2.0s ease-in-out 2.0s;
+  -webkit-transition: width 0.3s ease-in-out 0.5s,
+                      border-radius 0.3s ease-in-out 0.5s;
+  transition: width 0.3s ease-in-out 0.5s,
+              border-radius 0.3s ease-in-out 0.5s;
 }
 
 .mobile .info-hotspot .info-hotspot-header {
@@ -478,15 +478,15 @@ body.single-scene #sceneList, body.single-scene #sceneListToggle {
 
 .desktop .info-hotspot.visible .info-hotspot-header,
 .desktop.no-touch .info-hotspot.visible .info-hotspot-header:hover {
-  width: 200px;
-  border-radius: 2px;
+  width: 270px;
+  border-radius: 10px;
   border-top-right-radius: 0;
   border-bottom-right-radius: 0;
   border-bottom-left-radius: 0;
-  -webkit-transition: width 1.0s ease-in-out,
-                      border-radius 1.0s ease-in-out;
-  transition: width 1.0s ease-in-out,
-              border-radius 1.0s ease-in-out;
+  -webkit-transition: width 0.5s ease-in-out,
+                      border-radius 0.5s ease-in-out;
+  transition: width 0.5s ease-in-out,
+              border-radius 0.5s ease-in-out;
 }
 
 .info-hotspot .info-hotspot-icon-wrapper {

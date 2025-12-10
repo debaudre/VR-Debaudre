@@ -1,6 +1,6 @@
 # VR-Debaudre
 
-la visitte virtuel du lycée Jean Baptiste Debaudre
+la visitte virtuel du lycée Jean Baptiste Debaudre ICI: https://metjag.github.io/VR-Debaudre/
 
 -------------------------------------------------------------------------------------
 

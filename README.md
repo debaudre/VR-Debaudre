@@ -42,14 +42,12 @@ FICHIER:
 -Le fichier style.css contient la feuille de style, c’est ce qui donne
 son apparence au site
 
--Le fichier data.js
-
--Le fichier index.js
+-Le fichier data.js et le fichier index.js contiennent une ou plusieurs variables qui sont utilisé par le fichier index et style permettant de modifier l'aspect du site
 
 -Le dossier tiles s’occupe du découpage des images (dossier img)
 pour les intégrer à la visite virtuelle
 
--Le dossier vendor
+-Le dossier vendor contient des infos provenant du vendeur / l'organisme permettant la création du site
 
 -Le dossier hotspots contient les descriptions de chaque hotspot
 présent sur le site

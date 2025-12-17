@@ -2,7 +2,7 @@ var APP_DATA = {
   "scenes": [
     {
       "id": "0-cour_carre",
-      "name": "cour_carre",
+      "name": "Cour carré",
       "levels": [
         {
           "tileSize": 256,
@@ -110,7 +110,7 @@ var APP_DATA = {
     },
     {
       "id": "2-cdi",
-      "name": "cdi",
+      "name": "CDI",
       "levels": [
         {
           "tileSize": 256,
@@ -159,7 +159,7 @@ var APP_DATA = {
     },
     {
       "id": "3-cour",
-      "name": "cour",
+      "name": "Cour",
       "levels": [
         {
           "tileSize": 256,
@@ -215,6 +215,7 @@ var APP_DATA = {
           "pitch": -0.31776171518253093,
           "title": "general",
           "text": "Text"
+
         },
         {
           "yaw": -1.5921745169522392,
@@ -226,7 +227,7 @@ var APP_DATA = {
     },
     {
       "id": "4-cours_indus",
-      "name": "cours_indus",
+      "name": "Cours Indus",
       "levels": [
         {
           "tileSize": 256,
@@ -287,7 +288,7 @@ var APP_DATA = {
     },
     {
       "id": "5-cour_passerelle",
-      "name": "cour_passerelle",
+      "name": "Cour Passerelle",
       "levels": [
         {
           "tileSize": 256,
@@ -341,7 +342,7 @@ var APP_DATA = {
     },
     {
       "id": "6-passerell_internat",
-      "name": "passerell_internat",
+      "name": "Passerelle Internat",
       "levels": [
         {
           "tileSize": 256,
@@ -396,7 +397,7 @@ var APP_DATA = {
     },
     {
       "id": "7-self",
-      "name": "self",
+      "name": "Self",
       "levels": [
         {
           "tileSize": 256,
@@ -445,7 +446,7 @@ var APP_DATA = {
     },
     {
       "id": "8-bat_indus_interieur",
-      "name": "bat_indus_interieur",
+      "name": "Batiment Industriel Interieur",
       "levels": [
         {
           "tileSize": 256,
@@ -512,7 +513,7 @@ var APP_DATA = {
     },
     {
       "id": "9-etage_science",
-      "name": "etage_science",
+      "name": "Etage Science",
       "levels": [
         {
           "tileSize": 256,
@@ -573,7 +574,7 @@ var APP_DATA = {
     },
     {
       "id": "10-etage_bts",
-      "name": "etage_bts",
+      "name": "Etage BTS",
       "levels": [
         {
           "tileSize": 256,

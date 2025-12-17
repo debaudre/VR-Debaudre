@@ -254,7 +254,6 @@ body.fullscreen-enabled.mobile #autorotateToggle {
 }
 
 #sceneList {
-  display: none;
   position: absolute;
   top: 0;
   left: -220px;
@@ -454,7 +453,7 @@ body.single-scene #sceneList, body.single-scene #sceneListToggle {
   width: 40px;
   height: 40px;
   border-radius: 20px;
-  background-color: rgb(103,115,131);
+  background-color: rgb(100,100,125);
   cursor: pointer;
   -webkit-transition: width 0.3s ease-in-out 0.5s,
                       border-radius 0.3s ease-in-out 0.5s;
@@ -470,7 +469,7 @@ body.single-scene #sceneList, body.single-scene #sceneListToggle {
 
 .desktop.no-touch .info-hotspot .info-hotspot-header:hover {
   width: 280px;
-  border-radius: 5px;
+  border-radius: 30px;
   -webkit-transition: width 0.3s ease-in-out,
                       border-radius 0.3s ease-in-out;
   transition: width 0.3s ease-in-out,
@@ -480,7 +479,7 @@ body.single-scene #sceneList, body.single-scene #sceneListToggle {
 .desktop .info-hotspot.visible .info-hotspot-header,
 .desktop.no-touch .info-hotspot.visible .info-hotspot-header:hover {
   width: 260px;
-  border-radius: 5px;
+  border-radius: 25px;
   border-top-right-radius: 0;
   border-bottom-right-radius: 0;
   border-bottom-left-radius: 0;

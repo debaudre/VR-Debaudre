@@ -141,8 +141,8 @@
   sceneListToggleElement.addEventListener('click', toggleSceneList);
 
   // Start with the scene list open on desktop.
-  if (!document.body.classList.contains('mobile')) {
-    showSceneList();
+  if (document.body.classList.contains('mobile')) {
+   showSceneList();
   }
 
   // Set handler for scene switch.

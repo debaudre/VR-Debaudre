@@ -43,7 +43,7 @@ apparence au site
 
 - le fichier index.js
 
-- le fichier tiles
+- le fichier tiles s'occupe de la decoute de nos images ( fichier img) pour les implementer dans le site de visite virtuel
 
 - le fichier vendor
 

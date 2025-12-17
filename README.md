@@ -47,6 +47,8 @@ apparence au site
 
 - le fichier vendor
 
+- le fichier hotspots contient nos descripstions pour chaque hostpots present sur le site
+
 -------------------------------------------------------------------------------------
 
 mise a jours a venir : 
@@ -60,28 +62,6 @@ les images qu'ils manquent a rajouter pour la visite virtuelle:
 - ...?
 
 - easter egg?
-
-Hotspot :
-- general :
-
-- bts sti :
-
-- bts tertiaire :
-
-- sti2d :
-
-- stmg :
-
-- self :
-
-- internat :
-
-- lycée :
-
-Le lycée Jean Baptiste Debaudre a ouvert pour la première fois le 1 novembre 1924 ,
-Cette école devient collège technique en 1953, puis lycée technique en 1960.
-Le lycée prend le nom de l'ingénieur Jean-Baptiste De Baudre en 1992, le lycée offre
-aujourd’hui plusieurs possibilités d’enseignement général et technique et post bac .
 
 -------------------------------------------------------------------------------------
 

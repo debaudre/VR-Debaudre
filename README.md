@@ -1,6 +1,6 @@
 # VR-Debaudre
 
-la visitte virtuel du lycée Jean Baptiste Debaudre ICI: [https://debaudre.github.io/VR-Debaudre/](https://debaudre.github.io/VR-Debaudre/)
+La visite virtuelle du lycée Jean-Baptiste Debaudre ICI: [https://debaudre.github.io/VR-Debaudre/](https://debaudre.github.io/VR-Debaudre/)
 
 -------------------------------------------------------------------------------------
 
@@ -8,10 +8,11 @@ la visitte virtuel du lycée Jean Baptiste Debaudre ICI: [https://debaudre.githu
 But :
 
 
-Créer une visite virtuel du lycée Jean Baptiste Debaudre a l'aide d'images 360°
-et de Hotspot afin de decrire les formations disponibles et les endroit important de 
-l'etablissement. Il a egalement pour but de pouvoir permettre au gens souhaitant 
-visiter le lycee mais qui n'en ont pas la possibilité de le faire quand meme!
+Créer une visite virtuelle du lycée Jean-Baptiste Debaudre à l’aide d’images 360°
+et de hotspots afin de décrire les formations disponibles et les endroits importants de
+l’établissement.
+Elle a également pour but de permettre aux personnes souhaitant visiter le lycée,
+mais qui n’en ont pas la possibilité, de le faire quand même !
 
 -------------------------------------------------------------------------------------
 
@@ -19,49 +20,59 @@ visiter le lycee mais qui n'en ont pas la possibilité de le faire quand meme!
 comment ça marche ? :
 
 
-Grace au site marzipano , il est possible de créer des visites virtuelle 
-a l'aide d'image 360° , ces images sont prise a l'aide d'une camera 360° et sont 
-ensuite convertit dans le bon format afin de les utilisés dans le site .
-pour façonner le site on lui importe les images et on creer ensuite des relation pour 
-pouvoir de déplacer d'une image a une autre , on peux ensuite rajouter des Hotspot
-pour notre description , et modifier le CSS pour changer l'aparence de base de site.
-pour tester le site en local , il nous faut imperativement un server , On utilise 
-alors Uwamp car il est gratuit .
+Grâce au site Marzipano, il est possible de créer des visites virtuelles
+à l’aide d’images 360°.
+Ces images sont prises à l’aide d’une caméra 360° puis sont
+ensuite converties dans le bon format afin de les utiliser sur le site.
+
+Pour façonner le site, on importe les images et on crée ensuite des relations
+pour pouvoir se déplacer d’une image à une autre.
+On peut ensuite ajouter des hotspots pour les descriptions et modifier le CSS
+afin de changer l’apparence de base du site.
+
+Pour tester le site en local, il nous faut impérativement un serveur.
+Nous utilisons donc Uwamp, car il est gratuit.
 
 
 FICHIER:
+-Le dossier img contient les images 360° du site
 
+-Le fichier index.html contient la base de la page de la visite virtuelle
 
-- le fichier img contient nos images 360° pour le site
+-Le fichier style.css contient la feuille de style, c’est ce qui donne
+son apparence au site
 
-- le fichier index.html contient la base de notre page de la visite virtuel
+-Le fichier data.js
 
-- le fichier style.css contient notre feuille de style , c'est ce qui donne sa jolie
-apparence au site
+-Le fichier index.js
 
-- le fichier data.js 
+-Le dossier tiles s’occupe du découpage des images (dossier img)
+pour les intégrer à la visite virtuelle
 
-- le fichier index.js
+-Le dossier vendor
 
-- le fichier tiles s'occupe de la decoute de nos images ( fichier img) pour les implementer dans le site de visite virtuel
-
-- le fichier vendor
-
-- le fichier hotspots contient nos descripstions pour chaque hostpots present sur le site
-
+-Le dossier hotspots contient les descriptions de chaque hotspot
+présent sur le site
 -------------------------------------------------------------------------------------
 
 mise a jours a venir : 
 
-les images qu'ils manquent a rajouter pour la visite virtuelle:
-- cantines avec plats
-- bts tertiares
-- salle de science
-- gymnase
--internat
-- ...?
+Images manquantes à ajouter pour la visite virtuelle :
 
-- easter egg?
+-Cantine avec les plats
+
+-BTS tertiaires
+
+-Salle de sciences
+
+-Gymnase
+
+-Internat
+
+-… ?
+
+-Easter egg ?
+
 
 -------------------------------------------------------------------------------------
 

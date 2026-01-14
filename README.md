@@ -66,6 +66,8 @@ Images manquantes à ajouter pour la visite virtuelle :
 
 -Gymnase
 
+-escalier
+
 -Internat
 
 -… ?

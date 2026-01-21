@@ -40,7 +40,14 @@ var APP_DATA = {
           "target": "1-hall"
         }
       ],
-      "infoHotspots": []
+      "infoHotspots": [
+        {
+          "yaw": -0.2502642883921801,
+          "pitch": -0.33755105090892528,
+          "title": "lycée",
+          "text": "Le lycée Jean Baptiste Debaudre a ouvert pour la première fois le 1 novembre 1924, Cette école devient collège technique en 1953, puis lycée technique en 1960. Le lycée prend le nom de l'ingénieur Jean-Baptiste De Baudre en 1992, le lycée offre aujourd’hui plusieurs possibilités d’enseignement général et technique et post bac ."
+        },
+	  ]
     },
     {
       "id": "1-hall",
@@ -214,7 +221,7 @@ var APP_DATA = {
           "yaw": 0.7532053413232536,
           "pitch": -0.31776171518253093,
           "title": "general",
-          "text": "Text"
+          "text": "Le Bac général prépare les élèves à une formation académique complète, leur permettant de s'orienter vers de nombreux domaines d'études supérieures. Ce parcours comprend trois spécialités : Le Littéraire, Scientifique et l’Économique et Sociale. Pour plus d’information : http://lyceedebaudre.net/formations/baccalaureat/la-voie-generale/"
 
         },
         {
@@ -391,7 +398,7 @@ var APP_DATA = {
           "yaw": -0.01186281578687165,
           "pitch": 0.03261038827390905,
           "title": "internat",
-          "text": "Text"
+          "text": "L’internat offre un service d’hébergement pour toute personne habitant loin, plusieurs tarifs sont disponibles, un diner et un petit déjeuner sont disponible ainsi qu’un hébergement pour chaque jour y compris le weekend. Pour plus d’information : http://lyceedebaudre.net/tarifs-service-restauration-et-hebergement/ "
         }
       ]
     },
@@ -440,7 +447,7 @@ var APP_DATA = {
           "yaw": -1.2283295863500978,
           "pitch": 0.07233891150417193,
           "title": "self",
-          "text": "Text"
+          "text": "Le Self est l’endroit ou les élèves et étudiants peuvent se restaurer et manger durant la pause méridienne, comme tout self, il faut crée son repas entre les différents choix qui sont proposé chaque jour selon son envie et ses goûts. "
         }
       ]
     },
@@ -489,7 +496,7 @@ var APP_DATA = {
           "yaw": 0.4217407372479762,
           "pitch": -0.08701828618131913,
           "title": "STMG",
-          "text": "Text"
+          "text": "Le bac STMG (Sciences et Technologies du Management et de la Gestion) permet d’appréhender et de comprendre l’organisation et le fonctionnement des entreprises. Pour plus d’information : http://lyceedebaudre.net/formations/baccalaureat/bac-stmg/"
         },
         {
           "yaw": 0.6190953788939382,
@@ -501,7 +508,7 @@ var APP_DATA = {
           "yaw": -1.061285294325483,
           "pitch": -0.04966755415745716,
           "title": "STI2D",
-          "text": "Text"
+          "text": "Le bac STI2D (Sciences et Technologies de l’Industrie et du Développement Durable) met l’accent sur les démarches d’investigation et de projet, les études de cas associées à des activités pratiques, de façon à acquérir des compétences et des connaissances scientifiques et technologiques polyvalentes liées à l’industrie et au développement durable. Pour plus d’information : http://lyceedebaudre.net/formations/baccalaureat/bac-sti2d/"
         },
         {
           "yaw": -1.123564602536927,
@@ -617,7 +624,7 @@ var APP_DATA = {
           "yaw": 0.16000445376303674,
           "pitch": -0.05156466194621423,
           "title": "bts eco",
-          "text": "Text"
+          "text": "Secteur de l’économie concernant les services. Les formations en BTS tertiaires : Comptabilité et Gestion (CG), Gestion de la PME (GPME), Support à l'Action Managériale (SAM), Management Commercial Opérationnel (MCO). Pour plus d’information : http://lyceedebaudre.net/formations/bts/ts-tertiaires/"
         }
       ]
     }

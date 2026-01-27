@@ -1,0 +1,92 @@
+/* =========================
+   INFO HOTSPOT – STYLE SONAR
+   ========================= */
+
+.info-hotspot {
+  position: relative;
+  opacity: 1;
+}
+
+/* ---- CERCLE PRINCIPAL ---- */
+.info-hotspot .info-hotspot-header {
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  background: transparent;
+  cursor: pointer;
+  position: relative;
+}
+
+/* cercle externe */
+.info-hotspot .info-hotspot-header::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  border-radius: 50%;
+  border: 5px solid rgba(255,255,255,.8);
+  transition: transform .2s, border .2s;
+}
+
+/* cercle interne */
+.info-hotspot .info-hotspot-header::after {
+  content: '';
+  position: absolute;
+  inset: 10px;
+  border-radius: 50%;
+  background: rgba(255,255,255,.8);
+  transition: transform .2s, background .2s;
+}
+
+/* ---- HOVER SONAR ---- */
+.no-touch .info-hotspot:hover .info-hotspot-header::before {
+  transform: scale(.9);
+  border-color: #fff;
+}
+
+.no-touch .info-hotspot:hover .info-hotspot-header::after {
+  transform: scale(.8);
+  background: #fff;
+}
+
+/* onde sonar */
+.no-touch .info-hotspot:hover .info-hotspot-header {
+  animation: sonarEffect 1.2s ease-out;
+}
+
+/* ---- TOOLTIP ---- */
+.info-hotspot .info-hotspot-text {
+  position: absolute;
+  left: -70px;
+  bottom: 80px;
+  width: 200px;
+
+  background-color: #333;
+  color: #fff;
+  padding: .8em;
+  line-height: 1.2em;
+
+  opacity: 0;
+  pointer-events: none;
+
+  transform-origin: 50% calc(100% + 6em);
+  transform: rotate(15deg);
+
+  transition:
+    opacity .5s,
+    transform .5s cubic-bezier(.17,.67,.4,1.39);
+}
+
+/* affichage au hover OU visible (mobile) */
+.no-touch .info-hotspot:hover .info-hotspot-text,
+.info-hotspot.visible .info-hotspot-text {
+  opacity: 1;
+  pointer-events: all;
+  transform: rotate(0deg);
+}
+
+/* ---- ON DÉSACTIVE LES ÉLÉMENTS INUTILES ---- */
+.info-hotspot-title-wrapper,
+.info-hotspot-close-wrapper,
+.info-hotspot-icon-wrapper {
+  display: none !important;
+}

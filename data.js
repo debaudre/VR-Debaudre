@@ -221,7 +221,7 @@ var APP_DATA = {
           "yaw": 0.7532053413232536,
           "pitch": -0.31776171518253093,
           "title": "general",
-          "text": "Le Bac général prépare les élèves à une formation académique complète, leur permettant de s'orienter vers de nombreux domaines d'études supérieures. Ce parcours comprend trois spécialités : Le Littéraire, Scientifique et l’Économique et Sociale. Pour plus d’information : http://lyceedebaudre.net/formations/baccalaureat/la-voie-generale/"
+          "text": "Le Bac général prépare les élèves à une formation académique complète, leur permettant de s'orienter vers de nombreux domaines d'études supérieures. Ce parcours comprend trois spécialités : Le Littéraire, Scientifique et l’Économique et Sociale. Pour plus d’information : <a href="http://lyceedebaudre.net/formations/baccalaureat/la-voie-generale/">ici</a>"
 
         },
         {

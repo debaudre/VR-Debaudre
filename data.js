@@ -221,7 +221,7 @@ var APP_DATA = {
           "yaw": 0.7532053413232536,
           "pitch": -0.31776171518253093,
           "title": "general",
-          "text": "Le Bac général prépare les élèves à une formation académique complète, leur permettant de s'orienter vers de nombreux domaines d'études supérieures. Ce parcours comprend trois spécialités : Le Littéraire, Scientifique et l’Économique et Sociale. Pour plus d’information : http://lyceedebaudre.net/formations/baccalaureat/la-voie-generale/"
+          "text": "Le Bac général prépare les élèves à une formation académique complète, leur permettant de s'orienter vers de nombreux domaines d'études supérieures. Ce parcours comprend trois spécialités : Le Littéraire, Scientifique et l’Économique et Sociale. Pour plus d’information :<a href='http://lyceedebaudre.net/formations/baccalaureat/la-voie-generale/'> cliquer ici </a>"
 
         },
         {
@@ -398,7 +398,7 @@ var APP_DATA = {
           "yaw": -0.01186281578687165,
           "pitch": 0.03261038827390905,
           "title": "internat",
-          "text": "L’internat offre un service d’hébergement pour toute personne habitant loin, plusieurs tarifs sont disponibles, un diner et un petit déjeuner sont disponible ainsi qu’un hébergement pour chaque jour y compris le weekend. Pour plus d’information : http://lyceedebaudre.net/tarifs-service-restauration-et-hebergement/ "
+          "text": "L’internat offre un service d’hébergement pour toute personne habitant loin, plusieurs tarifs sont disponibles, un diner et un petit déjeuner sont disponible ainsi qu’un hébergement pour chaque jour y compris le weekend. Pour plus d’information : <a href = 'http://lyceedebaudre.net/tarifs-service-restauration-et-hebergement/'> cliquer ici </a> "
         }
       ]
     },
@@ -496,7 +496,7 @@ var APP_DATA = {
           "yaw": 0.4217407372479762,
           "pitch": -0.08701828618131913,
           "title": "STMG",
-          "text": "Le bac STMG (Sciences et Technologies du Management et de la Gestion) permet d’appréhender et de comprendre l’organisation et le fonctionnement des entreprises. Pour plus d’information : http://lyceedebaudre.net/formations/baccalaureat/bac-stmg/"
+          "text": "Le bac STMG (Sciences et Technologies du Management et de la Gestion) permet d’appréhender et de comprendre l’organisation et le fonctionnement des entreprises. Pour plus d’information : <a href = 'http://lyceedebaudre.net/formations/baccalaureat/bac-stmg/'> cliquer ici </a>"
         },
         {
           "yaw": 0.6190953788939382,
@@ -508,7 +508,7 @@ var APP_DATA = {
           "yaw": -1.061285294325483,
           "pitch": -0.04966755415745716,
           "title": "STI2D",
-          "text": "Le bac STI2D (Sciences et Technologies de l’Industrie et du Développement Durable) met l’accent sur les démarches d’investigation et de projet, les études de cas associées à des activités pratiques, de façon à acquérir des compétences et des connaissances scientifiques et technologiques polyvalentes liées à l’industrie et au développement durable. Pour plus d’information : http://lyceedebaudre.net/formations/baccalaureat/bac-sti2d/"
+          "text": "Le bac STI2D (Sciences et Technologies de l’Industrie et du Développement Durable) met l’accent sur les démarches d’investigation et de projet, les études de cas associées à des activités pratiques, de façon à acquérir des compétences et des connaissances scientifiques et technologiques polyvalentes liées à l’industrie et au développement durable. Pour plus d’information : <a href = 'http://lyceedebaudre.net/formations/baccalaureat/bac-sti2d/'> cliquer ici </a>"
         },
         {
           "yaw": -1.123564602536927,
@@ -624,7 +624,7 @@ var APP_DATA = {
           "yaw": 0.16000445376303674,
           "pitch": -0.05156466194621423,
           "title": "bts eco",
-          "text": "Secteur de l’économie concernant les services. Les formations en BTS tertiaires : Comptabilité et Gestion (CG), Gestion de la PME (GPME), Support à l'Action Managériale (SAM), Management Commercial Opérationnel (MCO). Pour plus d’information : http://lyceedebaudre.net/formations/bts/ts-tertiaires/"
+          "text": "Secteur de l’économie concernant les services. Les formations en BTS tertiaires : Comptabilité et Gestion (CG), Gestion de la PME (GPME), Support à l'Action Managériale (SAM), Management Commercial Opérationnel (MCO). Pour plus d’information : <a href = 'http://lyceedebaudre.net/formations/bts/ts-tertiaires/'> cliquer ici </a>"
         }
       ]
     }
